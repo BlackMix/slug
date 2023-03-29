@@ -26,6 +26,7 @@ func init() {
 		&nlSub,
 		&nnSub,
 		&plSub,
+		&ptSub,
 		&roSub,
 		&slSub,
 		&svSub,
